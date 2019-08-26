@@ -1,5 +1,5 @@
 #-----------------------------------------------------#
-# vsm measurement ploter v0.6				      ----#
+# vsm measurement plot v0.6			  ----#
 # former name: vsm_plt_v05_id_Hc-i.py 	          ----#
 # author: tatsunootoshigo, 7475un00705hi90@gmail.com  #
 #-----------------------------------------------------#
