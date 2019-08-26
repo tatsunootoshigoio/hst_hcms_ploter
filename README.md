@@ -1,2 +1,2 @@
-# hst_hcms_ploter
+# hst_hcms_plot
 VSM measurement data ploter with fitting
